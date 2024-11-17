@@ -32,6 +32,3 @@ This project uses **logistic regression** to predict whether a house will sell b
 
 ## Usage:
 This project demonstrates the application of machine learning to real estate analysis, and you can modify the features or model for further experimentation or improvement.
-
-## License:
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
